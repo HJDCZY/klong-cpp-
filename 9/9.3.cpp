@@ -29,5 +29,5 @@ int main(){
     str s2("world");
     cout<<(s1+=s2)<<endl;
     cout<<s1.s<<endl;
-
+    return 0;
 }
